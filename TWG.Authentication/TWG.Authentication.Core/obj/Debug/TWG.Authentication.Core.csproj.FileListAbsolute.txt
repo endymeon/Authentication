@@ -1,0 +1,4 @@
+C:\Users\daren\Documents\Visual Studio 2013\Projects\Authentication\TWG.Authentication\TWG.Authentication.Core\bin\Debug\TWG.Authentication.Core.dll
+C:\Users\daren\Documents\Visual Studio 2013\Projects\Authentication\TWG.Authentication\TWG.Authentication.Core\bin\Debug\TWG.Authentication.Core.pdb
+C:\Users\daren\Documents\Visual Studio 2013\Projects\Authentication\TWG.Authentication\TWG.Authentication.Core\obj\Debug\TWG.Authentication.Core.dll
+C:\Users\daren\Documents\Visual Studio 2013\Projects\Authentication\TWG.Authentication\TWG.Authentication.Core\obj\Debug\TWG.Authentication.Core.pdb
